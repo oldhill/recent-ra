@@ -1,0 +1,3 @@
+[submodule "ra-recommends"]
+	path = ra-recommends
+	url = git://github.com/oldhill/ra-recommends.git

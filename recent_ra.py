@@ -6,7 +6,7 @@
 # Requires ra-recommends module at
 # https://github.com/oldhill/ra-recommends
 
-import modules.rarecommends as rarecommends
+import ra_recommends.rarecommends as rarecommends
 
 def main():
 
