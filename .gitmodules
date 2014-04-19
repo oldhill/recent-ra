@@ -1,6 +1,3 @@
-[submodule "ra-recommends"]
-	path = ra-recommends
-	url = git://github.com/oldhill/ra-recommends.git
 [submodule "ra_recommends"]
 	path = ra_recommends
 	url = git://github.com/oldhill/ra-recommends.git
