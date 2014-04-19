@@ -8,7 +8,7 @@ A sample project is live at [oldhillcode.com/music.html](http://oldhillcode.com/
 
 Not written by or associated with ResidentAdvisor.net
 
-requires
+submodule
 ========
 ra-recommends module available [here](https://github.com/oldhill/ra-recommends)
 
